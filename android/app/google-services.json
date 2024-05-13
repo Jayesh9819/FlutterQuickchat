@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543200092966",
+    "project_id": "quickchat-babe9",
+    "storage_bucket": "quickchat-babe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543200092966:android:0456dfb075809f0e6f57e7",
+        "android_client_info": {
+          "package_name": "com.example.quickchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5EdFctCVlxjrDydb4tVyp_a0HNpYW4v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543200092966:android:7d06a99cb0c306c56f57e7",
+        "android_client_info": {
+          "package_name": "net.sweepstrac.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5EdFctCVlxjrDydb4tVyp_a0HNpYW4v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
