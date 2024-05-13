@@ -133,7 +133,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       body: WebView(
         javascriptMode: JavascriptMode.unrestricted,
-        initialUrl: 'https://quickchat.biz',
+        initialUrl: 'https://m.quickchat.biz',
         onWebViewCreated: (WebViewController webViewController) {
           controller = webViewController;
         },
