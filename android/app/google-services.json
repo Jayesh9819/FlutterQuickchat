@@ -26,6 +26,25 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:543200092966:android:aab59cd4a24feb3c6f57e7",
+        "android_client_info": {
+          "package_name": "net.mquickchat.mquickchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5EdFctCVlxjrDydb4tVyp_a0HNpYW4v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:543200092966:android:7d06a99cb0c306c56f57e7",
         "android_client_info": {
           "package_name": "net.sweepstrac.app"
